@@ -1,0 +1,10 @@
+.footer {
+    background-color: #002347;
+    padding: 10px 0;
+    color: white;
+}
+
+.footer_link {
+    text-decoration: none;
+    color: blue;
+}

@@ -1,0 +1,296 @@
+h1 {
+    margin: 0;
+}
+
+h2 {
+    margin: 0;
+}
+
+h3 {
+    margin: 0;
+}
+
+h4 {
+    margin: 0;
+}
+
+h5 {
+    margin: 0;
+}
+
+h6 {
+    margin: 0;
+}
+
+.home {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.section1 {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.section1_bg1 {
+    background: rgb(1, 130, 240);
+    background: linear-gradient(90deg, rgba(1, 130, 240, 1) 0%, rgba(0, 133, 253, 1) 40%, rgba(0, 133, 255, 0) 40%, rgba(255, 255, 255, 1) 100%);
+    box-sizing: border-box;
+    width: 100%;
+    padding: 100px 20% 0 20%;
+    display: flex;
+
+
+
+}
+
+.section1_bg1 img {
+    max-width: 450px;
+    max-height: 700px;
+}
+
+.section1_bg1_text {
+    margin-left: 100px;
+    text-align: start;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.section1_bg1_text h4 {
+    font-size: 30px;
+    font-family: "Roboto", sans-serif;
+    color: #555555;
+    margin-bottom: 12px;
+    font-weight: 400;
+}
+
+.section1_bg1_text h1 {
+    font-family: "Roboto", sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.section1_bg1_text p {
+    color: #777;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.667;
+}
+
+.section1_bg1_text button {
+    display: inline-block;
+    border: 1px solid #384aeb;
+    border-radius: 30px;
+    color: #222;
+    font-weight: 500;
+    padding: 12px 50px;
+    background: #384aeb;
+    color: #fff;
+    transition: all .4s ease;
+}
+
+
+
+
+/* section2 */
+.section2 {
+    padding: 40px 20% 0 20%;
+    text-align: start;
+}
+
+.section2 p {
+    color: #777;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.667;
+}
+
+.section2 h2 {
+    font-size: 36px;
+    font-weight: 600;
+    font-family: "Oswald", sans-serif;
+    color: #222;
+    line-height: 1.1;
+}
+
+.section2 .card {
+    margin-top: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    justify-content: space-between;
+
+}
+
+.section2 .card img {
+    max-width: 255px;
+    max-height: 271px;
+}
+
+.section2 .category {
+    color: #777;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.667;
+}
+
+.section2 .price {
+    color: #777;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.667;
+}
+
+.section2 a {
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+    color: #222;
+}
+
+.cards {
+    padding-bottom: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+/* section3 */
+.section3 {
+    background-image: url("https://preview.colorlib.com/theme/aroma/img/home/parallax-bg.png.webp");
+    width: 100%;
+    padding: 120px 20% 120px 20%;
+    text-align: start;
+    box-sizing: border-box;
+}
+
+.section3_text {
+    width: 445px;
+    text-align: center;
+}
+
+.section3_text h3 {
+    font-family: "Oswald", sans-serif;
+    color: #222;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.section3_text h4 {
+    margin: 0;
+    margin-top: 30px;
+    font-size: 30px;
+    font-weight: 400;
+    font-family: "Oswald", sans-serif;
+    color: #222;
+}
+
+.section3_text p {
+    color: #777;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.667;
+    margin-bottom: 30px;
+}
+
+.section3_text button {
+    display: inline-block;
+    border: 1px solid #384aeb;
+    border-radius: 30px;
+    color: #222;
+    font-weight: 500;
+    padding: 12px 50px;
+    background: #384aeb;
+    color: #fff;
+    transition: all .4s ease;
+}
+
+
+
+
+
+
+
+
+
+/* section4 */
+.section4 {
+    padding: 40px 20% 0 20%;
+    text-align: start;
+}
+
+.section4 a {
+    text-decoration: none;
+    color: #222;
+
+}
+
+.section4 p {
+    color: #777;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.667;
+}
+
+.section4 h2 {
+    font-size: 36px;
+    font-weight: 600;
+    font-family: "Oswald", sans-serif;
+    color: #222;
+    line-height: 1.1;
+}
+
+.section4_cards {
+    width: 100%;
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.section4_card {
+    width: 30%;
+}
+
+.section4_card_img img {
+    width: 100%;
+}
+
+
+
+.section4_card_text ul {
+    margin: 0 !important;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.section4_card_text li {
+    margin: 0 !important;
+    margin-top: 5px;
+    font-size: 14px;
+    color: #999999;
+}
+
+.section4_card_text h4 {
+    margin-top: 10px;
+    font-family: "Oswald", sans-serif;
+    color: #222;
+    line-height: 1.1;
+    font-size: 20px;
+    font-weight: 500;
+}

@@ -1,0 +1,31 @@
+.add {
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+.add_form {
+    display: flex;
+    flex-direction: column;
+}
+
+.add_form input {
+    width: 350px;
+    height: 30px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.add_form button {
+    width: 100px;
+    height: 35px;
+    display: inline-block;
+    border: 1px solid #384aeb;
+    border-radius: 30px;
+    color: #222;
+    font-weight: 500;
+    background: #384aeb;
+    color: #fff;
+    transition: all .4s ease;
+    margin: auto;
+    margin: 25px auto;
+}
